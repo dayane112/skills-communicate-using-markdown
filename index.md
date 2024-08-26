@@ -3,3 +3,6 @@
 ### They should add pictures for reference
 ###### Until next time!
 # Bye
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
